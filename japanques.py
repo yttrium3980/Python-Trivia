@@ -3,19 +3,22 @@ import os
 # For Windows
 os.system('cls')
 
-while True:
     #import os
 
     # For Windows
     #os.system('cls')
-    print( '''Question 67
-    What was the first city to have an atomic bomb dropped on it?
+print( '''Question 67
+What was the first city to have an atomic bomb dropped on it?
 
-    1. Tokyo
-    2. Hiroshima
-    3. Nagasaki
+1. Tokyo
+2. Hiroshima
+3. Nagasaki
 
-    #trivia''')
+#trivia''')
+
+
+while True:
+
 
     answer = input('What is your answer? ')
     #answer = int(answer)
